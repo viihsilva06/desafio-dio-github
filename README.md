@@ -3,4 +3,6 @@ primeiro repositório desafio de projeto
 fazendo alteraçoes
 
 
-## link uteis
+##Proxima aula HTML/CSS
+criar jogos na web
+bootcamp dio!
